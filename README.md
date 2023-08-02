@@ -159,7 +159,7 @@ Next, copy the link to the installation files and paste it on the web brower ins
 <br />
 
 <img src="https://github.com/d-mccardell/osticket-prereqs/assets/116754993/2ab06fc1-9103-434a-905b-ec0931bd2645" height="50%" width="50%"/>
-<p>Right click ost-config.php--> properties--> security--> advanced--> disable inheritance--> remove all permissions--> add--> select principle--> type everyone--> click ok--> check full control--> click ok and apply. </p>
+<p>Right click ost-config.php--> Properties--> Security--> Advanced--> Disable Inheritance--> Remove All Permissions--> Add--> Select Principle--> type Everyone--> click Ok--> check Full Control--> click Ok and Apply. </p>
 <br/>
 <br/>
 
@@ -170,7 +170,7 @@ Next, copy the link to the installation files and paste it on the web brower ins
 
 
 <p>Download and install HeidiSQL. Create a new session and log in with the credentials used with MySQL. Connect to the session. 
-<br/> Right click unnamed--> create new--> database. Create anew database with the name osTicket</p>
+<br/> Right click Unnamed--> Create New--> Database. Create a new database with the name osTicket</p>
 <br/>
 <br/>
 

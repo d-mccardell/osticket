@@ -25,6 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Assign permissions
 - Setup osTicket in browser
 
+
 <h2>Installation Steps</h2>
 
 <p>
@@ -170,6 +171,19 @@ Next, copy the link to the installation files and paste it on the web brower ins
 
 <p>Download and install HeidiSQL. Create a new session and log in with the credentials used with MySQL. Connect to the session. 
 <br/> Right click unnamed--> create new--> database. Create anew database with the name osTicket</p>
+<br/>
+<br/>
+
+<img src="https://github.com/d-mccardell/osticket-prereqs/assets/116754993/2ac1e3ed-3651-43b1-b080-66929f8890bb" height="50%" width="50%"/>
+<p>Continue the osTicket setup in the browser. At the bottom of the page you will use your credentials from MySQL. For the MySQL database type in osTicket. That is the database that was created in HeidiSQL. Click install now.  </p>
+<br/>
+<br/>
+
+<img src="https://github.com/d-mccardell/osticket-prereqs/assets/116754993/5380192f-3338-456e-8a59-fdc3ec3b547b" height="50%" width="50%"/>
+<p>Congratulations you have officially installed osTicket.</p>
+
+
+
 
 
 
